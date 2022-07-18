@@ -11,7 +11,7 @@ Simple, single-file helper for [DragonRuby](https://dragonruby.org/) 🐉
 
 ## Usage
 
-Check out the `examples` directory for a small game demos, or honestly just pop open `lib/dragon_saddle.rb` and give it a quick read. It's mostly single-line helpers and should be pretty readable even for those new to Ruby.
+Check out the `app` directory for a small game demo, or honestly just pop open `lib/dragon_saddle.rb` and give it a quick read. It's mostly single-line helpers and should be pretty readable even for those new to Ruby.
 
 ## License
 
